@@ -102,9 +102,14 @@ int main(void)
   while (1)
   {
 	  //GPIOB->ODR = 0b111111111111111;
-	  if((GPIOA->IDR & (1<<0)) == 1){
-		  GPIOB->ODR = 0b111;
-		  while((GPIOA->IDR & (1<<0)) == 1);
+	  if((GPIOA->IDR & (1<<0)) > 0){
+		  GPIOB->ODR = 0b001;
+		  while((GPIOA->IDR & (1<<0)) >0);
+
+	  }
+	  else if((GPIOA->IDR & (1<<5)) > 0){
+	  		  GPIOB->ODR = 0b010;
+	  		  while((GPIOA->IDR & (1<<5)) >0);
 
 	  }
 	  else{
