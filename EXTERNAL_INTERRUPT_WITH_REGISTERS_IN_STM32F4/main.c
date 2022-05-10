@@ -47,20 +47,23 @@ void GPIO_Config(void){
 void EXTI_Config(void){
 	RCC->APB2ENR = 0X4000; // SYSCFG active (external interrupt)
 
-	//SYSCFG->EXTICR = 0;
+	SYSCFG->EXTICR[0] = 0;
+	SYSCFG->EXTICR[1] = 0;
+	SYSCFG->EXTICR[2] = 0;
+	SYSCFG->EXTICR[3] = 0;
 
 	NVIC_EnableIRQ(EXTI0_IRQn);
 	NVIC_EnableIRQ(EXTI1_IRQn);
 	NVIC_EnableIRQ(EXTI2_IRQn);
 	NVIC_EnableIRQ(EXTI3_IRQn);
 
-	NVIC_SetPriority(EXTI0_IRQn, 0);//En öncelikli olan kesme
-	NVIC_SetPriority(EXTI1_IRQn, 1);//2. öncelikli kesme
-	NVIC_SetPriority(EXTI2_IRQn, 2);//3. öncelikli kesme
-	NVIC_SetPriority(EXTI2_IRQn, 4);//3. öncelikli kesme
+	NVIC_SetPriority(EXTI0_IRQn, 0);//En Ã¶ncelikli olan kesme
+	NVIC_SetPriority(EXTI1_IRQn, 1);//2. Ã¶ncelikli kesme
+	NVIC_SetPriority(EXTI2_IRQn, 2);//3. Ã¶ncelikli kesme
+	NVIC_SetPriority(EXTI2_IRQn, 4);//3. Ã¶ncelikli kesme
 
-	EXTI->IMR = 0XF;// PA0, PA1 VE PA2 interrupt için hazýr
-	EXTI->RTSR = 0xF;// Yükselen kenarda interrupt tetiklenecek
+	EXTI->IMR = 0XF;// PA0, PA1 VE PA2 interrupt iÃ§in hazÃ½r
+	EXTI->RTSR = 0xF;// YÃ¼kselen kenarda interrupt tetiklenecek
 }
 /* USER CODE END PM */
 
