@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/76009919/175978527-8004d0be-94b2-4dfa-
 ![note](https://user-images.githubusercontent.com/76009919/175979532-09151cca-5bf8-472a-a3d9-70c256dcff9b.png)
 
 
-PA4 = CH1 
-PA5 = CH2
+#PA4 = CH1 
+#PA5 = CH2
 
 
 
