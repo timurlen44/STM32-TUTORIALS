@@ -17,7 +17,9 @@ https://user-images.githubusercontent.com/76009919/175978527-8004d0be-94b2-4dfa-
 #DAC 12 BIT OUTPUT VALUE REGISTER
 ![1](https://user-images.githubusercontent.com/76009919/175979199-2e08792b-0a9e-4791-9cdf-26a79ae5f435.png)
 
-#NO
+#NOTE
+![note](https://user-images.githubusercontent.com/76009919/175979716-06f3f2c2-909d-4d38-8f7f-f59caea40756.png)
+
 
 
 
