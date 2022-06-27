@@ -18,7 +18,8 @@ https://user-images.githubusercontent.com/76009919/175978527-8004d0be-94b2-4dfa-
 ![1](https://user-images.githubusercontent.com/76009919/175979199-2e08792b-0a9e-4791-9cdf-26a79ae5f435.png)
 
 #NOTE
-![note](https://user-images.githubusercontent.com/76009919/175979359-a3bb5bb3-cff4-4764-957c-cfcb94464ab5.png)
+![note](https://user-images.githubusercontent.com/76009919/175979532-09151cca-5bf8-472a-a3d9-70c256dcff9b.png)
+
 
 PA4 = CH1 
 PA5 = CH2
