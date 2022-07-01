@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/76009919/176945157-ae03be8d-8429-48b3-
 ![2](https://user-images.githubusercontent.com/76009919/176944781-cf26eba5-43d5-437e-9591-be980f40d6bd.png)
 ![3](https://user-images.githubusercontent.com/76009919/176944788-ef55009b-28e6-4b5a-a464-48970c81cdfe.png)
 
-#TIMER2 SLAVE MODE CONTROL REGISTER
+#TIMER2 SLAVE MODE CONTROL REGISTER -----------
 ![1](https://user-images.githubusercontent.com/76009919/176944871-a7cd39fd-8ad9-452e-bb69-d742e4e2982b.png)
 ![2](https://user-images.githubusercontent.com/76009919/176944877-51d18a8b-874f-4310-8e3e-4975e84aaf92.png)
 
