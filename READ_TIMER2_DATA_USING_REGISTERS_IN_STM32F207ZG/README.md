@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/76009919/176945157-ae03be8d-8429-48b3-
 ![1](https://user-images.githubusercontent.com/76009919/176944871-a7cd39fd-8ad9-452e-bb69-d742e4e2982b.png)
 ![2](https://user-images.githubusercontent.com/76009919/176944877-51d18a8b-874f-4310-8e3e-4975e84aaf92.png)
 
-#TIMER2 EVENT GENERATION REGISTER
+#TIMER2 EVENT GENERATION REGISTER         
 ![1](https://user-images.githubusercontent.com/76009919/176944981-5dea914f-ffd3-4edb-a5d8-f0f69c8f5bb6.png)
 
 #SET TIMER2 PRESCALAR VALUE
