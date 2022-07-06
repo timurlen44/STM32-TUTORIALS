@@ -35,7 +35,6 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-int i = 0;  
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -116,11 +115,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-		/*
-		__HAL_TIM_SET_COMPARE(&htim12,TIM_CHANNEL_1,5000);
-		__HAL_TIM_SET_COMPARE(&htim3,TIM_CHANNEL_2,5000);
-		__HAL_TIM_SET_COMPARE(&htim4,TIM_CHANNEL_4,5000);
-		*/
 		
 		for(i = 0;i<=_COUNTER_PERIOD_AUTO_RELOAD_VALUE;i++)
 		{
