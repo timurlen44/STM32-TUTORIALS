@@ -1,5 +1,7 @@
-<b>STM32CubeMX SETTINGS</b><br>
+<b>STM32 AND RASPBERRY PI PICO COMMUNICATION USING I2C</b><br>
+https://user-images.githubusercontent.com/76009919/185363190-2b8fbdae-1ff0-48f4-b2f0-57f51d86913d.mp4
 
+<b>STM32CubeMX SETTINGS</b><br>
 ![NUCLEO-F103RB_I2C_SETTINGS](https://user-images.githubusercontent.com/76009919/185176507-51392c5d-26dd-4b1a-82b1-aa375badeb09.png)
 
 <b>NUCLEO-F103RB PINOUTS</b><br>
@@ -7,5 +9,7 @@
 
 <b>RASPBERRY PI PICO PINOUTS</b><br>
 ![RASPBERRY_PI_PICO_W_PINOUTS](https://user-images.githubusercontent.com/76009919/185176949-01c806a2-b2f2-4fb8-8b99-f773f135c368.png)
+
+
 
 
