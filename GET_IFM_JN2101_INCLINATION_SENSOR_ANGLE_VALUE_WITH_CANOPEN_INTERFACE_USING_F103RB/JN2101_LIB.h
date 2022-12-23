@@ -2,12 +2,7 @@
 #include "stdbool.h"
 #include "string.h"
 #define NODE_ID 10
-#define Device_Is_Connected 1
-#define Device_Is_Not_Connected 1
-
-enum Is_Message_Received_Enum{Message_Is_Not_Received,Message_Is_Received};
 enum FIR_Filter_Hz_Enum{_FIR_Deactivated = 0, _FIR_Ten_Hz = 1, _FIR_Five_Hz = 2, _FIR_One_Hz = 3, _FIR_Half_Hz = 4};
-enum Is_Message_Received_Enum Is_Message_Received;
 
 struct jn2101_struct
 {
