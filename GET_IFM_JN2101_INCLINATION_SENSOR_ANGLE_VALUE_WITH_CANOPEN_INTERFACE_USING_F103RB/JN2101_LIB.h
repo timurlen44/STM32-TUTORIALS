@@ -1,7 +1,7 @@
 #include "main.h"
 #include "stdbool.h"
 #include "string.h"
-#define NODE_ID 10
+#define NODE_ID 10 // Default NodeID is 10
 enum FIR_Filter_Hz_Enum{_FIR_Deactivated = 0, _FIR_Ten_Hz = 1, _FIR_Five_Hz = 2, _FIR_One_Hz = 3, _FIR_Half_Hz = 4};
 
 struct jn2101_struct
